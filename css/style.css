@@ -1,0 +1,21 @@
+footer {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+  padding: 20px; /* Optional: Füge Padding hinzu, um den Inhalt zu zentrieren */
+  text-align: center; /* Optional: Zentriere den Inhalt horizontal */
+}
+
+main {
+  padding-bottom: 40px; /* Hier die Höhe des Fußbereichs einsetzen */
+}
+
+body {
+  position: relative;
+  min-height: 100vh;
+}
+
+.li_none {
+  display: none;
+}
